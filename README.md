@@ -106,6 +106,8 @@ Circuit breaker pattern. Auto-activates under load. 15-minute recovery.
 ## Links
 
 - [pinolearn.com](https://pinolearn.com)
+- [Twitter/X](https://x.com/PinoLearn)
+- [Discord](https://discord.gg/D5JVEnJk)
 - [PolygonScan](https://amoy.polygonscan.com/address/0x6852724e564103cbb7572f0a54db637330907e65)
 - [GitHub](https://github.com/omarr2005)
 
