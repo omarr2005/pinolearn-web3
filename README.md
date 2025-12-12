@@ -9,7 +9,7 @@ Complete EdTech OS with blockchain rewards. Built solo in ~1 month with $40 budg
 ## Platform Architecture
 
 ```
-52  API endpoints
+120 API endpoints
 64  lib modules  
 908 lines database schema
 40+ database models
