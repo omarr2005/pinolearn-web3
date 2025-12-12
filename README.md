@@ -8,7 +8,7 @@
 
 ## What is PinoLearn?
 
-I built PinoLearn to solve a simple problem: learning is hard, and people give up too easily.
+I'm a university student who built PinoLearn in about a month to solve a simple problem: learning is hard, and people give up too easily.
 
 Our solution? **Pay people to learn.** Every time you complete a lesson, pass a quiz, or finish a roadmap - you earn PINO tokens on Polygon. Real crypto, real value.
 
@@ -109,6 +109,8 @@ Not a pitch deck. Not a concept. Working code.
 ---
 
 ## Contact
+
+**Email:** mrm000184@gmail.com
 
 **GitHub:** [github.com/omarr2005](https://github.com/omarr2005)
 
